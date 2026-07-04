@@ -67,6 +67,10 @@ void loop() {
   Serial.print(v4); Serial.print(",");
   Serial.println(v5);
 
+  delay(100);
+}
+
+
 
 
 
@@ -77,6 +81,3 @@ void loop() {
 welcome **repo**!
 
 _italic_
-
-  delay(100);
-}
