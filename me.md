@@ -27,7 +27,7 @@ adding more info
 
 
 ```mermaid
-graph td;
+graph TD;
 a--->b;
 a-->c;
 b--->d;
