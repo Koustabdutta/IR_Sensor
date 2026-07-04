@@ -28,8 +28,8 @@ adding more info
 
 ```mermaid
 graph td;
-a-->b;
+a--->b;
 a-->c;
 b--->d;
-c--d:
+c--d;
 ```
