@@ -18,3 +18,8 @@ adding more info
 
 1. next purpose
 2. next one
+
+
+| first | last | email |
+| ----- | ---- | ----- |
+| koustab| dutta | koustab@gmail.com |
