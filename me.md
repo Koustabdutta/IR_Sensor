@@ -23,3 +23,13 @@ adding more info
 | first | last | email |
 | ----- | ---- | ----- |
 | koustab| dutta | koustab@gmail.com |
+
+
+
+```mermaid
+graph td;
+a-->b;
+a-->c;
+b--->d;
+c--d:
+```
