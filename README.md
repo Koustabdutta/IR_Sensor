@@ -39,16 +39,6 @@ It’s ideal for projects like:
 ### 📜 Arduino Sketch
 
 
-
-#welcome to my project
-
-## summary
-
-welcome **repo**!
-
-_italic_
-
-
 ```cpp
 #define S1 32
 #define S2 33
